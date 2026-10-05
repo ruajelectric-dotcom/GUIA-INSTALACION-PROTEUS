@@ -1,5 +1,7 @@
 # ⚡ GUÍA DE INSTALACIÓN PROTEUS — RUAJ ELECTRIC
 
+![Simular Arduino en Proteus — RUAJ ELECTRIC](imagenes/portada.png)
+
 Guía paso a paso para dejar **Proteus** listo para simular: instalar librerías externas, simular **Arduino UNO** y cargar el archivo **.HEX** desde el IDE de Arduino.
 
 > ⚠️ **Importante:** Proteus es un software comercial de **Labcenter Electronics**. En este repositorio **no se comparten instaladores ni cracks**. Descárgalo desde la página oficial (versión demo o con licencia) o con la licencia educativa de tu institución.
